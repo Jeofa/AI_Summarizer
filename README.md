@@ -1,8 +1,8 @@
 # React + Vite
+# Ai Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an AI article summarizer, built by ReactJS using the rapid api
+ 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot from 2023-09-19 06-57-43](https://github.com/Jeofa/ai_summarizer/assets/102508457/165edaa4-4b10-47b0-a3c3-7aeea4eed7ad)
+![Screenshot from 2023-09-19 06-58-56](https://github.com/Jeofa/ai_summarizer/assets/102508457/c7240e98-a850-49b6-b93e-5126857d6a82)
